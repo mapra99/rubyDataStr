@@ -10,4 +10,8 @@ class Stack
   def pop
     @li.remove(0)
   end
+
+  def empty?
+    @li.get(0).nil? ? true : false
+  end
 end
