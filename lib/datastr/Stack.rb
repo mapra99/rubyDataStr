@@ -1,4 +1,4 @@
-require 'LinkedList'
+require 'linkedlist'
 class Stack
   def initialize
     @li = LinkedList.new

@@ -1,4 +1,4 @@
-require 'LinkedList'
+require 'linkedlist'
 
 class Queue
   def initialize
