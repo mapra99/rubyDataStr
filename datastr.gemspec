@@ -8,15 +8,16 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Miguel Prada"]
   spec.email         = ["mapra99@gmail.com"]
 
-  spec.description   = %q{datastr is a gem made for the easy and fast application of data structures in Ruby.}
-  spec.homepage      = "https://github.com/mapra99/rubyDataStr"
+  spec.summary       = %q{datastr is a gem that helps for the easy and fast application of Complex Data Structures in Ruby.}
+  spec.description   = %q{datastr is a gem that helps for the easy and fast application of Complex Data Structures in Ruby.}
+  spec.homepage      = "https://github.com/mapra99/rubyDataStr/tree/v0.x/development"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/mapra99/rubyDataStr"
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/mapra99/rubyDataStr/tree/v0.x/development"
+  spec.metadata["changelog_uri"] = "https://github.com/mapra99/rubyDataStr/tree/v0.x/development"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
